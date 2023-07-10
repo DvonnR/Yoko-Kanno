@@ -379,7 +379,7 @@ body{
     .bioa{
         font-size:1em;
         text-align: center;
-        
+        margin: 0 0 0 20px;
     }
 
     .img1{
@@ -409,13 +409,14 @@ body{
         width:486px;
         box-shadow: 3px 3px 5px 6px  #ccc ;
         border-radius:10px;
+        margin:0 0 0 20px;;
     }
 
     .bio2{
         grid-area:4/7/5/12;
         text-align: center;
         
-        margin: 0 0 0 30px;
+        margin: 0 0 0 10px;
         width:486px;
     }
 
